@@ -1,0 +1,13 @@
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\GUI_QLNguoiDung.exe.config
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\GUI_QLNguoiDung.exe
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\GUI_QLNguoiDung.pdb
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\UC_Login.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\UC_Login.pdb
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.csproj.AssemblyReference.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.Form1.resources
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.Properties.Resources.resources
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.csproj.GenerateResource.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.csproj.CoreCompileInputs.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNg.264252AA.Up2Date
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.exe
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.pdb

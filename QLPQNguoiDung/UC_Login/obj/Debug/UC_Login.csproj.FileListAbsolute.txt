@@ -1,0 +1,8 @@
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\UC_Login\bin\Debug\UC_Login.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\UC_Login\bin\Debug\UC_Login.pdb
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\UC_Login\obj\Debug\UC_Login.csproj.AssemblyReference.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\UC_Login\obj\Debug\UC_Login.csproj.CoreCompileInputs.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\UC_Login\obj\Debug\UC_Login.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\UC_Login\obj\Debug\UC_Login.pdb
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\UC_Login\obj\Debug\UC_Login.csproj.GenerateResource.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\UC_Login\obj\Debug\UC_Login.UC_Login.resources
