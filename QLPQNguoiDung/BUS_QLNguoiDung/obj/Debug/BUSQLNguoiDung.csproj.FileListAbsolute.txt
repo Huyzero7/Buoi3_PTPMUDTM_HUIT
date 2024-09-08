@@ -1,0 +1,2 @@
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\BUS_QLNguoiDung\obj\Debug\BUSQLNguoiDung.csproj.AssemblyReference.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\BUS_QLNguoiDung\obj\Debug\BUSQLNguoiDung.csproj.CoreCompileInputs.cache

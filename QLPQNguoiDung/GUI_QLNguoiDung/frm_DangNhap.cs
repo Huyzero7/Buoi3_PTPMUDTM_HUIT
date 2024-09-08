@@ -9,17 +9,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Configuration; //Thư viện đọc app.config
+using UtilityTools;
+using DTO_QLNguoiDung;
+
 
 namespace GUI_QLNguoiDung
 {
     public partial class frm_DangNhap : Form
     {
-        private readonly BLL_QLPQNguoiDung nguoiDungBLL;
         public frm_DangNhap()
         {
             InitializeComponent();
-            string connectionString = ConfigurationManager.ConnectionStrings["GUI_QLNguoiDung.Properties.Settings.DB_QLPQNGUOIDUNGConnectionString"].ConnectionString;
-            nguoiDungBLL = new BLL_QLPQNguoiDung(connectionString);
         }
 
         private void uC_Login1_SubmitClicked(object sender, EventArgs e)
@@ -28,6 +28,8 @@ namespace GUI_QLNguoiDung
                 MessageBox.Show("Đăng nhập thành công!, xin chào: " + uC_Login1.txt_TenDangNhap.Text);
             else
                 MessageBox.Show("Tên đăng nhập hoặc mật khẩu không hợp lệ");
+
+            string strConn = Properties.Settings.Default.STRConn;
         }
     }
 }

@@ -35,19 +35,6 @@ namespace UC_Login
         //Sự kiện click cho button Đăng nhập
         private void btn_DangNhap_Click(object sender, EventArgs e)
         {
-            /*
-            if (txt_TenDangNhap.Text.Length == 0)
-            {
-                MessageBox.Show("Hãy nhập tên đăng nhập!");
-                return;
-            }
-            if (txt_MatKhau.Text.Length == 0)
-            {
-                MessageBox.Show("Hãy nhập mật khẩu!");
-                return;
-            }
-            */
-
             if (string.IsNullOrEmpty(txt_TenDangNhap.Text.Trim()))
             {
                 MessageBox.Show("Không được bỏ trống" + lbl_TieuDe_TenDangNhap.Text.ToLower());

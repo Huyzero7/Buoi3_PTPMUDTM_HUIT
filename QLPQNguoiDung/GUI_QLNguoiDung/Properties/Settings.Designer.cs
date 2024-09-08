@@ -23,14 +23,15 @@ namespace GUI_QLNguoiDung.Properties {
             }
         }
         
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=DB_QLPQNGUOIDUNG;Persist Security Info=True;User ID" +
-            "=sa;Password=123;TrustServerCertificate=True")]
-        public string DB_QLPQNGUOIDUNGConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Server=DESKTOP-RJ31LKC\\SQLEXPRESS;Database=DB_QLPQNGUOIDUNG;User ID=sa;Pwd=1")]
+        public string STRConn {
             get {
-                return ((string)(this["DB_QLPQNGUOIDUNGConnectionString"]));
+                return ((string)(this["STRConn"]));
+            }
+            set {
+                this["STRConn"] = value;
             }
         }
     }
