@@ -46,16 +46,39 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="DB_QLPQNGUOIDUNGDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_QLPQNGUOIDUNGDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm_CauHinhChuoiKetNoi.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frm_CauHinhChuoiKetNoi.Designer.cs">
+      <DependentUpon>frm_CauHinhChuoiKetNoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DangNhap.Designer.cs">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QuanLyNhanSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QuanLyNhanSu.Designer.cs">
+      <DependentUpon>frm_QuanLyNhanSu.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="frm_CauHinhChuoiKetNoi.resx">
+      <DependentUpon>frm_CauHinhChuoiKetNoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DangNhap.resx">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QuanLyNhanSu.resx">
+      <DependentUpon>frm_QuanLyNhanSu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +89,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="DB_QLPQNGUOIDUNGDataSet.xsc">
+      <DependentUpon>DB_QLPQNGUOIDUNGDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_QLPQNGUOIDUNGDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_QLPQNGUOIDUNGDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_QLPQNGUOIDUNGDataSet.xss">
+      <DependentUpon>DB_QLPQNGUOIDUNGDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -80,6 +114,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BUS_QLNguoiDung\BUS_QLNguoiDung.csproj">
+      <Project>{11514e43-530d-4374-9d1e-4a50dd1160ed}</Project>
+      <Name>BUS_QLNguoiDung</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QLNguoiDung\DTO_QLNguoiDung.csproj">
+      <Project>{e81ab2a2-5bed-4fd8-bcb6-6bc813dc7352}</Project>
+      <Name>DTO_QLNguoiDung</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UC_Login\UC_Login.csproj">
       <Project>{60f9b8bf-4302-40bc-bc32-f7e60c6855bf}</Project>
       <Name>UC_Login</Name>

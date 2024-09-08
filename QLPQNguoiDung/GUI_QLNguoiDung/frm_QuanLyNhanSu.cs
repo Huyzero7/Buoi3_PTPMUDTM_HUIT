@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GUI_QLNguoiDung
 {
-    public partial class Form1 : Form
+    public partial class frm_QuanLyNhanSu : Form
     {
-        public Form1()
+        public frm_QuanLyNhanSu()
         {
             InitializeComponent();
         }
