@@ -35,16 +35,30 @@ namespace UC_Login
         //Sự kiện click cho button Đăng nhập
         private void btn_DangNhap_Click(object sender, EventArgs e)
         {
+            /*
             if (txt_TenDangNhap.Text.Length == 0)
             {
-                MessageBox.Show("Hãy nhập tên đăng nhập!"); 
+                MessageBox.Show("Hãy nhập tên đăng nhập!");
                 return;
             }
-            if(txt_MatKhau.Text.Length == 0)
+            if (txt_MatKhau.Text.Length == 0)
             {
                 MessageBox.Show("Hãy nhập mật khẩu!");
                 return;
+            }
+            */
 
+            if (string.IsNullOrEmpty(txt_TenDangNhap.Text.Trim()))
+            {
+                MessageBox.Show("Không được bỏ trống" + lbl_TieuDe_TenDangNhap.Text.ToLower());
+                this.txt_TenDangNhap.Focus();
+                return;
+            }
+            if (string.IsNullOrEmpty(txt_MatKhau.Text.Trim()))
+            {
+                MessageBox.Show("Không được bỏ trống" + lbl_TieuDe_MatKhau.Text.ToLower());
+                this.txt_MatKhau.Focus();
+                return;
             }
             //Tạo sự kiện click để gọi hàm xử lý sự kiện click do người lập trình ứng dụng viết
             OnSubmitClicked(sender, e);

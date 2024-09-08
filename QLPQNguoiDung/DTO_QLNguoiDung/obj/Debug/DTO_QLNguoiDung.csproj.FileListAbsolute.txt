@@ -1,0 +1,6 @@
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DTO_QLNguoiDung\bin\Debug\DTO_QLNguoiDung.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DTO_QLNguoiDung\bin\Debug\DTO_QLNguoiDung.pdb
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DTO_QLNguoiDung\obj\Debug\DTO_QLNguoiDung.csproj.AssemblyReference.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DTO_QLNguoiDung\obj\Debug\DTO_QLNguoiDung.csproj.CoreCompileInputs.cache
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DTO_QLNguoiDung\obj\Debug\DTO_QLNguoiDung.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DTO_QLNguoiDung\obj\Debug\DTO_QLNguoiDung.pdb

@@ -13,3 +13,9 @@ E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoan
 E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.frm_DangNhap.resources
 E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.frm_CauHinhChuoiKetNoi.resources
 E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\obj\Debug\GUI_QLNguoiDung.frm_QuanLyNhanSu.resources
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\BUS_QLNguoiDung.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\DTO_QLNguoiDung.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\DAL_QLNguoiDung.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\BUS_QLNguoiDung.pdb
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\DTO_QLNguoiDung.pdb
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\GUI_QLNguoiDung\bin\Debug\DAL_QLNguoiDung.pdb

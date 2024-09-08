@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BUS_QLNguoiDung;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,14 +8,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Configuration; //Thư viện đọc app.config
 
 namespace GUI_QLNguoiDung
 {
     public partial class frm_DangNhap : Form
     {
+        private readonly BLL_QLPQNguoiDung nguoiDungBLL;
         public frm_DangNhap()
         {
             InitializeComponent();
+            string connectionString = ConfigurationManager.ConnectionStrings["GUI_QLNguoiDung.Properties.Settings.DB_QLPQNGUOIDUNGConnectionString"].ConnectionString;
+            nguoiDungBLL = new BLL_QLPQNguoiDung(connectionString);
         }
 
         private void uC_Login1_SubmitClicked(object sender, EventArgs e)
