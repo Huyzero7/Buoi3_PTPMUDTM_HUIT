@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|e:\\study\\[2]-chuyennganh\\phattrienphammemungdungthongminh\\buoi3\\02_03_nguyenhoanghuy\\buoi3_ptpmudtm_huit\\qlpqnguoidung\\uc_login\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|solutionrelative:uc_login\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|e:\\study\\[2]-chuyennganh\\phattrienphammemungdungthongminh\\buoi3\\02_03_nguyenhoanghuy\\buoi3_ptpmudtm_huit\\qlpqnguoidung\\uc_login\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|solutionrelative:uc_login\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|e:\\study\\[2]-chuyennganh\\phattrienphammemungdungthongminh\\buoi3\\02_03_nguyenhoanghuy\\buoi3_ptpmudtm_huit\\qlpqnguoidung\\uc_login\\uc_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|solutionrelative:uc_login\\uc_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Login.cs",
+              "DocumentMoniker": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.cs",
+              "RelativeDocumentMoniker": "UC_Login\\UC_Login.cs",
+              "ToolTip": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.cs",
+              "RelativeToolTip": "UC_Login\\UC_Login.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAtwDcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:57:50.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Login.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.cs",
+              "RelativeDocumentMoniker": "UC_Login\\UC_Login.cs",
+              "ToolTip": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.cs [Design]",
+              "RelativeToolTip": "UC_Login\\UC_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:53:27.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Login.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.Designer.cs",
+              "RelativeDocumentMoniker": "UC_Login\\UC_Login.Designer.cs",
+              "ToolTip": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.Designer.cs",
+              "RelativeToolTip": "UC_Login\\UC_Login.Designer.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAtwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:52:49.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
