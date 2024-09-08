@@ -106,6 +106,7 @@
             this.btn_Huy.TabIndex = 6;
             this.btn_Huy.Text = "Huỷ";
             this.btn_Huy.UseVisualStyleBackColor = true;
+            this.btn_Huy.Click += new System.EventHandler(this.btn_Huy_Click);
             // 
             // UC_Login
             // 
@@ -129,8 +130,8 @@
 
         private System.Windows.Forms.Label lbl_TieuDe_TenDangNhap;
         private System.Windows.Forms.Label lbl_TieuDe_MatKhau;
-        private System.Windows.Forms.TextBox txt_TenDangNhap;
-        private System.Windows.Forms.TextBox txt_MatKhau;
+        public System.Windows.Forms.TextBox txt_TenDangNhap;
+        public System.Windows.Forms.TextBox txt_MatKhau;
         private System.Windows.Forms.CheckBox chk_HienThiMatKhau;
         private System.Windows.Forms.Button btn_DangNhap;
         private System.Windows.Forms.Button btn_Huy;

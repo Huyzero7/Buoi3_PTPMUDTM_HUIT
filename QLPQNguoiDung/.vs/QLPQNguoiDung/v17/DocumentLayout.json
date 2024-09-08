@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|solutionrelative:uc_login\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|e:\\study\\[2]-chuyennganh\\phattrienphammemungdungthongminh\\buoi3\\02_03_nguyenhoanghuy\\buoi3_ptpmudtm_huit\\qlpqnguoidung\\uc_login\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\uc_login\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|solutionrelative:uc_login\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|e:\\study\\[2]-chuyennganh\\phattrienphammemungdungthongminh\\buoi3\\02_03_nguyenhoanghuy\\buoi3_ptpmudtm_huit\\qlpqnguoidung\\uc_login\\uc_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|e:\\study\\[2]-chuyennganh\\phattrienphammemungdungthongminh\\buoi3\\02_03_nguyenhoanghuy\\buoi3_ptpmudtm_huit\\qlpqnguoidung\\uc_login\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|solutionrelative:uc_login\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\uc_login\\uc_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|solutionrelative:uc_login\\uc_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|e:\\study\\[2]-chuyennganh\\phattrienphammemungdungthongminh\\buoi3\\02_03_nguyenhoanghuy\\buoi3_ptpmudtm_huit\\qlpqnguoidung\\uc_login\\uc_login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{60F9B8BF-4302-40BC-BC32-F7E60C6855BF}|UC_Login\\UC_Login.csproj|solutionrelative:uc_login\\uc_login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Login.resx",
+              "DocumentMoniker": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.resx",
+              "RelativeDocumentMoniker": "UC_Login\\UC_Login.resx",
+              "ToolTip": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.resx",
+              "RelativeToolTip": "UC_Login\\UC_Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-08T05:48:02.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "UC_Login\\NguoiDung.cs",
+              "ToolTip": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\NguoiDung.cs",
+              "RelativeToolTip": "UC_Login\\NguoiDung.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:45:42.788Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +65,7 @@
               "RelativeDocumentMoniker": "UC_Login\\UC_Login.cs",
               "ToolTip": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.cs",
               "RelativeToolTip": "UC_Login\\UC_Login.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAtwDcAAAAOAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T04:57:50.237Z",
               "EditorCaption": ""
@@ -51,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UC_Login.Designer.cs",
               "DocumentMoniker": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.Designer.cs",
               "RelativeDocumentMoniker": "UC_Login\\UC_Login.Designer.cs",
               "ToolTip": "E:\\Study\\[2]-ChuyenNganh\\PhatTrienPhamMemUngDungThongMinh\\Buoi3\\02_03_NguyenHoangHuy\\Buoi3_PTPMUDTM_HUIT\\QLPQNguoiDung\\UC_Login\\UC_Login.Designer.cs",
               "RelativeToolTip": "UC_Login\\UC_Login.Designer.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAtwEIAAAAAAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAQwIQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T04:52:49.705Z",
               "EditorCaption": ""

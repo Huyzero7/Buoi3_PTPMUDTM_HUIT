@@ -53,7 +53,21 @@ namespace UC_Login
         protected virtual void OnSubmitClicked(object sender, EventArgs e)
         {
             //Kiểm tra xem có hàm xử lý sự kiện SubmitClicked? Nếu có thì gọi ra
-            if
+            if(SubmitClicked != null)
+                SubmitClicked(sender, e);
+        }
+
+        private void btn_Huy_Click(object sender, EventArgs e)
+        {
+            txt_TenDangNhap.Clear();
+            txt_MatKhau.Clear();
+
+            chk_HienThiMatKhau.Checked = false;
+            //Thoát form cha
+            this.ParentForm.Close();
+
+            OnSubmitClicked(sender, e);
+
         }
     }
 }
