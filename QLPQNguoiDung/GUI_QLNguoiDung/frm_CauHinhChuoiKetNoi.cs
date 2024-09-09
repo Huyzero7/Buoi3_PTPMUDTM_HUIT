@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.Sql;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -16,5 +17,16 @@ namespace GUI_QLNguoiDung
         {
             InitializeComponent();
         }
-    }
+
+        private void cbo_Server_DropDown(object sender, EventArgs e)
+        {
+            //cbo_Server.DataSource = f
+        }
+        private DataTable getServerName()
+        {
+            DataTable dt = new DataTable();
+            dt = SqlDataSourceEnumerator.Instance.GetDataSources();
+            return dt;
+        }
+    }   
 }

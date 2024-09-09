@@ -52,6 +52,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DB_QLPQNGUOIDUNGDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_CauHinhChuoiKetNoi.cs">
       <SubType>Form</SubType>
     </Compile>

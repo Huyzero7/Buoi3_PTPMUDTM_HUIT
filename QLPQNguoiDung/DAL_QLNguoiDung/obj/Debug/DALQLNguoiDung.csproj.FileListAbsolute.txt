@@ -7,3 +7,5 @@ E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoan
 E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DAL_QLNguoiDung\obj\Debug\DALQLNgu.F02AE987.Up2Date
 E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DAL_QLNguoiDung\obj\Debug\DAL_QLNguoiDung.dll
 E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DAL_QLNguoiDung\obj\Debug\DAL_QLNguoiDung.pdb
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DAL_QLNguoiDung\bin\Debug\UtilityTools.dll
+E:\Study\[2]-ChuyenNganh\PhatTrienPhamMemUngDungThongMinh\Buoi3\02_03_NguyenHoangHuy\Buoi3_PTPMUDTM_HUIT\QLPQNguoiDung\DAL_QLNguoiDung\bin\Debug\UtilityTools.pdb

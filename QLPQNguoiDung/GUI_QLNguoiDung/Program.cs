@@ -8,6 +8,8 @@ namespace GUI_QLNguoiDung
 {
     internal static class Program
     {
+        public static frm_QuanLyNhanSu mainForm = null;
+        public static frm_DangNhap loginForm = null;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -16,7 +18,8 @@ namespace GUI_QLNguoiDung
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_QuanLyNhanSu());
+            loginForm = new frm_DangNhap();
+            Application.Run(loginForm);
         }
     }
 }

@@ -49,6 +49,10 @@
       <Project>{e81ab2a2-5bed-4fd8-bcb6-6bc813dc7352}</Project>
       <Name>DTOQLNguoiDung</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UtilityTools\UtilityTools.csproj">
+      <Project>{f2f12203-fc9f-42e4-b2c0-3399baac6a2d}</Project>
+      <Name>UtilityTools</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

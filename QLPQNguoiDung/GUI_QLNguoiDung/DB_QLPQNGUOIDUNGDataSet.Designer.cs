@@ -2672,7 +2672,7 @@ SELECT MaManHinh, TenManHinh FROM DM_ManHinh WHERE (MaManHinh = @MaManHinh)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.DB_QLPQNGUOIDUNGConnectionString;
+            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.STRConn;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3027,7 +3027,7 @@ SELECT TenDangNhap, MatKhau, HoatDong FROM QL_NguoiDung WHERE (TenDangNhap = @Te
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.DB_QLPQNGUOIDUNGConnectionString;
+            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.STRConn;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3406,7 +3406,7 @@ SELECT TenDangNhap, MaNhomNguoiDung, GhiChu FROM QL_NguoiDungNhomNguoiDung WHERE
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.DB_QLPQNGUOIDUNGConnectionString;
+            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.STRConn;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3784,7 +3784,7 @@ SELECT MaNhom, TenNhom, GhiChu FROM QL_NhomNguoiDung WHERE (MaNhom = @MaNhom)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.DB_QLPQNGUOIDUNGConnectionString;
+            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.STRConn;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -4141,7 +4141,7 @@ SELECT MaNhom, TenNhom, GhiChu FROM QL_NhomNguoiDung WHERE (MaNhom = @MaNhom)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.DB_QLPQNGUOIDUNGConnectionString;
+            this._connection.ConnectionString = global::GUI_QLNguoiDung.Properties.Settings.Default.STRConn;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
