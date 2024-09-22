@@ -48,7 +48,7 @@
             // uC_Login1
             // 
             this.uC_Login1.BackColor = System.Drawing.Color.White;
-            this.uC_Login1.Location = new System.Drawing.Point(182, 26);
+            this.uC_Login1.Location = new System.Drawing.Point(186, 26);
             this.uC_Login1.Name = "uC_Login1";
             this.uC_Login1.Size = new System.Drawing.Size(354, 154);
             this.uC_Login1.TabIndex = 0;
